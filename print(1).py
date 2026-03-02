@@ -1,2 +1,2 @@
-#
-# print(1)
+#gyujgyujfgu
+print(1)

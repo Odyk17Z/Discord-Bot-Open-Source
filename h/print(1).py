@@ -1,2 +1,2 @@
-#gyujgyujfgu
+
 print(1)
